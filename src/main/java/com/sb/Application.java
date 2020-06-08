@@ -15,6 +15,9 @@ public class Application {
 		System.out.println(ctx.getClass());
 		//changes HIS-4
 		System.out.println("working on stashes");
+		//stash-2
+		System.out.println("working on stashes-2");
+		
 	}
 
 }
