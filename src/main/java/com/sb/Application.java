@@ -13,6 +13,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		System.out.println("SpringbootApp...");
 		System.out.println(ctx.getClass());
+		//changes HIS-4
+		System.out.println("working on stashes");
 	}
 
 }
