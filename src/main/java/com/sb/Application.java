@@ -17,6 +17,9 @@ public class Application {
 		System.out.println("working on stashes");
 		//stash-2
 		System.out.println("working on stashes-2");
+		//stash-4
+	    System.out.println("working on stashes-4");
+				
 		
 	}
 
